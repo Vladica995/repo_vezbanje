@@ -2,3 +2,4 @@
 
 *.log
 /logs
+/test_output
